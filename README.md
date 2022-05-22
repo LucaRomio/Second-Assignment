@@ -6,7 +6,7 @@ Second Assignment MTSS 2021/2022
 --------------------------------------------------------------------
 
 
-CODE COVERAGE using Jacoco and Coveralls
+# CODE COVERAGE using Jacoco and Coveralls
 
-LATEST BUILD STATUS
+# LATEST BUILD STATUS
 [![Java CI with Maven](https://github.com/LucaRomio/Second-Assignment/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/LucaRomio/Second-Assignment/actions/workflows/maven.yml)
